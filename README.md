@@ -1,16 +1,10 @@
-# myapp
+# To-Do App
+A Simple To-Do List App Built With Flutter To Help Your Productivity Consistency.
+![Screenshot 2023-10-27 122852](https://github.com/WilmanTb/To-Do-App-With-Flutter/assets/148366527/4c48b64b-2f6d-4419-81f4-9aeaeec5d765)
 
-A new Flutter project.
+# Dependencies
+1. Hive Generator
+2. Build Runner
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ezgif com-video-to-gif (2)](https://github.com/WilmanTb/To-Do-App-With-Flutter/assets/148366527/afb88d28-1f71-4e8f-8b94-cc1d5a076625)
